@@ -4,13 +4,14 @@
 #include <deque>
 #include <algorithm>
 #include <string>
+#include <numeric>
 #include <cmath>
 #include <iomanip>
 
 using namespace std;
 
 void solve(){
-
+    
 }
 
 int main(){
